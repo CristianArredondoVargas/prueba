@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1645463075 source:d:\programación\pa\proyecto de cine cb\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	"Horario.h"
+	"Pelicula.h"
+	"Usuario.h"
+	"Reserva.h"
+
+1644702737 d:\programación\pa\proyecto de cine cb\horario.h
+	<iostream>
+
+1645237182 d:\programación\pa\proyecto de cine cb\pelicula.h
+	<iostream>
+	<fstream>
+
+1645463190 d:\programación\pa\proyecto de cine cb\usuario.h
+	<iostream>
+
+1645241908 d:\programación\pa\proyecto de cine cb\reserva.h
+	<iostream>
+
